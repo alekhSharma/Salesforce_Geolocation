@@ -1,0 +1,17 @@
+{
+  "name": "Salesforce_Geolocation",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/SalesforceFoundation/simple-salesforce-dx-buildpack.git"
+    }
+  ]
+}
